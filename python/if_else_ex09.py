@@ -24,3 +24,6 @@ if cal_number == your_number:
     print("정답")
 else:
     print("오답")
+
+
+    

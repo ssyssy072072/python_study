@@ -8,3 +8,4 @@ elif one_char == 'C' or one_char == 'c':
     print("Circle")
 else:
     print("Unknown")
+print("끝입니다")
